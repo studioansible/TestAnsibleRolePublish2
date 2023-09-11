@@ -1,0 +1,23 @@
+galaxy_info:
+  role_name: testansiblerolepublish
+  author: ''
+  description: done
+  company: ''
+  issue_tracker_url: ''
+  license: done
+  min_ansible_version: done
+  min_ansible_container_version: ''
+  github_branch: ''
+  galaxy_tags:
+    - tag1
+    - tag2
+  platforms:
+    - name: Windows
+      versions:
+        - '8'
+        - '10'
+        - '11'
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
